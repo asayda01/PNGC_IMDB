@@ -1,6 +1,6 @@
 Peter Viegas Neema Sheby Glen Dovey Cem Saydam`s group project to create an alternative IMDB search site
 
-All credits belong to :
+All credits go to PNGC Group ( PeterNeemaGlenCem Group ) :
 
 Peter Viegas   https://github.com/peterviegas
 
